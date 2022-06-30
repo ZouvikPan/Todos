@@ -25,3 +25,29 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### Following are the screenshots of the To-Do's Application:
+<p align="center">
+  <img src="images/Screenshot%20from%202022-06-30%2021-57-32.png" height="500" title="Login Screen" style="vertical-align:middle">
+  <h3 align="center">Homepage containing users' To-Do's</h3>
+</p>
+<p align="center">
+  <img src="images/Screenshot%20from%202022-06-30%2021-57-39.png"  height="500" title="New user's notes screen" align="center">
+  <h3 align="center"> Marking To-Do as Done</h3>
+</p>
+<p align="center">
+  <img src="images/Screenshot%20from%202022-06-30%2021-58-11.png"  height="500" title="Previous notes of user" align="center">
+  <h3 align="center">Adding a new To-Do to the list</h3>
+</p>
+<p align="center">
+  <img src="images/Screenshot%20from%202022-06-30%2021-58-54.png"  height="500" title="Making new note" align="center">
+  <h3 align="center">New To-Do added</h3>
+</p>
+<p align="center">
+  <img src="images/Screenshot%20from%202022-06-30%2021-58-58.png"  height="500" title="New note created" align="center">
+  <h3 align="center">Deleting an existing To-Do</h3>
+</p>
+<p align="center">
+  <img src="images/Screenshot%20from%202022-06-30%2022-02-08.png"  height="500" title="New note created" align="center">
+  <h3 align="center">About Page</h3>
+</p>
